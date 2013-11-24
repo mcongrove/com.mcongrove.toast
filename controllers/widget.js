@@ -1,11 +1,11 @@
 /**
  * The toast notification widget
  * 
- * @class Widgets.com.chariti.toast
+ * @class Widgets.com.mcongrove.toast
  */
 
 /**
- * @member Widgets.com.chariti.toast
+ * @member Widgets.com.mcongrove.toast
  * @property {Object} CONFIG
  * @property {String} CONFIG.text The text to display in the toast
  * @property {Number} CONFIG.duration The length of time (ms) to display the toast

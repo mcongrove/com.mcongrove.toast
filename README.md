@@ -5,19 +5,19 @@ A toast-style notification widget for Titanium Alloy.
 Example Usage
 -------------
 
-	Coming Soon
+	Alloy.createWidget("com.mcongrove.toast", null, {
+		text: "This is a notification",
+		duration: 2000,
+		view: $.Wrapper
+	});
 
 Options
 -------
-Parameter   | Type        | Default 
-------------|-------------|------------
-Coming Soon | Coming Soon | Coming Soon
-
-Methods
--------
-Function    | Parameters  | Description 
-------------|-------------|------------
-Coming Soon | Coming Soon | Coming Soon
+Parameter | Type     | Default |
+----------|----------|---------|
+text      | `String` |         |
+duration  | `Number` | 3000    |
+view      | `View`   |         |
 
 Changelog
 ---------
